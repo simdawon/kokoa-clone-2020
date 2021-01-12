@@ -59,7 +59,7 @@
 }
 
 .nav__btn {
-  transform: translateY(50px);
+  transform: translateY(80px);
   animation: appearBtnAnimation 0.3s ease-in-out forwards;
 }
 
